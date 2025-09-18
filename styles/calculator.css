@@ -1,0 +1,46 @@
+ body  {
+      font-family: arial;
+      background-color: rgb(0,0,0);
+    }
+    .number-button {
+      color: white;
+      background-color:#333333;
+      height: 60px;
+      width: 60px;
+      border:none;
+      font-size: 26px;
+      border-radius:60px;
+      cursor: pointer;
+      margin-right: 8px;
+    }
+    .operator-button {
+      color: white;
+      background-color:#FEA00A;
+      height: 60px;
+      width: 60px;
+      border:none;
+      font-size: 26px;
+      border-radius:60px;
+      cursor: pointer;
+    }
+
+    div {
+      margin-bottom: 15px;
+    }
+
+    .result-message {
+      margin: 20px 0;
+      color: white;
+      font-size: 45px;
+    }
+
+    .clear-button {
+      color: white;
+      background-color:#333333;
+      height: 60px;
+      width: 60px;
+      border:none;
+      font-size: 17px;
+      border-radius:60px;
+      cursor: pointer;
+    }
