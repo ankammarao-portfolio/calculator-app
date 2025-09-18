@@ -14,7 +14,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ---
 
 ## Live Demo
-![Calculator Screenshot](screenshot.png)  
+![Click here to try the Calculator](https://ankammarao-portfolio.github.io/calculator-app/)  
 
 ---
 
